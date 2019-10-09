@@ -9,7 +9,9 @@
 ##### a. Which color wires correspond to power, ground and signal?
 
 power - red
+
 orange - pin 9
+
 brown - ground
 
 ##### Part 2. Connect the Servo to your Arduino
@@ -34,6 +36,6 @@ Here, I was ensuring that my servo could work with the potentiometer.
 
 [Video] (https://youtu.be/hNpPezwgUPA)
 
-###### a. Make a video of your final design.
+##### a. Make a video of your final design.
 
 [Video] https://youtu.be/CrL7Q7SFJ4M
