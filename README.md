@@ -30,12 +30,12 @@ Speed -> delay(15);
 ##### Include a photo/movie of your raw circuit in action.
 
 Here, I was ensuring that my servo could work with the potentiometer.
-(Video)[https://youtu.be/s2cM595MkJg]
+[Video](https://youtu.be/s2cM595MkJg)
 
 ##### a. Make a video of your proto puppet.
 
-(Video)[https://youtu.be/hNpPezwgUPA]
+[Video](https://youtu.be/hNpPezwgUPA)
 
 ##### a. Make a video of your final design.
 
-(Video)[https://youtu.be/CrL7Q7SFJ4M]
+[Video](https://youtu.be/CrL7Q7SFJ4M)
